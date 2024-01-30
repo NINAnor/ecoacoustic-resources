@@ -5,7 +5,7 @@
 In this directory we provide an extensive compilation of eco-acoustic datasets available in Europe.
 Please, contribute in priority to other existing repository efforts by checking their requirements and contacting the data managers.
 
-## List of existing repository
+## List of existing repositories
  
 | Repository name | Data manager (mail) | Short description | Link |
 |-----------------|---------------------|-------------------|------|
@@ -13,6 +13,6 @@ Please, contribute in priority to other existing repository efforts by checking 
 
 ## List of dataset
 
-| Dataset (link) | Data manager | Location | Realm |Short description |
+| Dataset | Data manager | Location | Realm |Short description |
 |----------------|--------------|----------|-------|------------------|
-| [Sound of Norway](https://thesoundofnorway.com/) | [Carolyn Rosten](carolyn.rosten@nina.no) | Norway | Terrestrial | Dataset containing 2 years worth of records at about 30 different locations in the Norway |
+| [Sound of Norway](https://thesoundofnorway.com/) | Carolyn Rosten (carolyn.rosten@nina.no) | Norway | Terrestrial | Dataset containing 2 years worth of records at about 30 different locations in the Norway |
