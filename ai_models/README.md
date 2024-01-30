@@ -4,18 +4,18 @@ This section showcases a range of acoustic and eco-acoustic models, from species
 
 ## General models
 
-| Model | Type | Repository | Paper | 
-|-------|------------|-------|-------|
-| BEATs | Classification | https://github.com/microsoft/unilm/tree/master/beats | https://arxiv.org/abs/2212.09058 |
-| AST: audio spectrogram transformer | Classification | https://github.com/YuanGongND/ast | https://arxiv.org/abs/2104.01778 |
-| PaSST: Efficient Training of Audio Transformers with Patchout | Classification | https://github.com/kkoutini/PaSST | https://arxiv.org/abs/2110.05069 |
+| Model | Type | Description | Repository | Paper | 
+|-------|------|-------------|------------|-------|
+| BEATs | Classification | Audio Pre-Training with Acoustic Tokenizers | https://github.com/microsoft/unilm/tree/master/beats | https://arxiv.org/abs/2212.09058 |
+| AST | Classification | Audio spectrogram transformer | https://github.com/YuanGongND/ast | https://arxiv.org/abs/2104.01778 |
+| PaSST | Classification | Efficient Training of Audio Transformers with Patchout | https://github.com/kkoutini/PaSST | https://arxiv.org/abs/2110.05069 |
 
 
 ## Eco-acoustic models
 
-| Model | Type | Repository | Paper |
-|-------|------|------------|-------|
-| BirdNET | Species classification | https://github.com/kahst/BirdNET-Analyzer | https://www.sciencedirect.com/science/article/pii/S1574954121000273 |
+| Model | Type | Description | Repository | Paper |
+|-------|------|-------------|------------|-------|
+| BirdNET | Species classification | A deep learning solution for avian diversity monitoring | https://github.com/kahst/BirdNET-Analyzer | https://www.sciencedirect.com/science/article/pii/S1574954121000273 |
 
 
 
