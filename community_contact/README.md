@@ -6,7 +6,7 @@ Below we provide a list of contact points.
 
 ## List of contact
 
-| Name | Institution | Interest |
+| Name (mail) | Institution | Interest |
 |-------|------------|----------|
 | [Benjamin Cretois](benjamin.cretois@nina.no) | Norwegian Institute for Nature Research | Development of AI tools for bioacoustic |
 | [Julia Wiel](julia.wiel@nina.no) | Norwegian Institute for Nature Research | Analysis and collection of acoustic data |
