@@ -1,10 +1,6 @@
 # Community Contacts
 
-## Overview
-
-Below we provide a list of contact points. 
-
-## List of contact
+## List of contacts
 
 | Name (mail) | Institution | Interest |
 |-------|------------|----------|
@@ -13,3 +9,7 @@ Below we provide a list of contact points.
 | [Carolyn Rosten](carolyn.rosten@nina.no) | Norwegian Institute for Nature Research | Collection of acoustic data |
 | [Kevin FA Darras](kevin.darras@inrae.fr) | INRAE | General ecoacoustics |
 
+## List of ecoacoustic networks
+
+| Name | URL | Country | Type |
+| Sounds of Life | https://consortium-sol.huma-num.fr/ | France | Consortium Huma-num |
