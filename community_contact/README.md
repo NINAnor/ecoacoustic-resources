@@ -12,4 +12,5 @@
 ## List of ecoacoustic networks
 
 | Name | URL | Country | Type |
+|-------|------------|----------|----------|
 | Sounds of Life | https://consortium-sol.huma-num.fr/ | France | Consortium Huma-num |
