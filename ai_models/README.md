@@ -17,4 +17,4 @@ This section showcases a range of AI models used for diverse tasks such as speci
 | Model | Type | Description | Repository | Paper |
 |-------|------|-------------|------------|-------|
 | BirdNET | Species classification | A deep learning solution for avian diversity monitoring | https://github.com/kahst/BirdNET-Analyzer | https://www.sciencedirect.com/science/article/pii/S1574954121000273 |
-| batdetect2 | Species classification | A deep learning solution for bat species monitoring | https://github.com/macaodha/batdetect2 | Towards a General Approach for Bat Echolocation Detection and Classification |
+| batdetect2 | Species classification | A deep learning solution for bat species monitoring | https://github.com/macaodha/batdetect2 | https://www.biorxiv.org/content/10.1101/2022.12.14.520490v1 |
