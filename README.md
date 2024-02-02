@@ -40,4 +40,4 @@ We warmly welcome contributions from the ecoacoustic community. Whether you have
 
 To stay informed about the latest additions and updates to this repository, we encourage you to 'watch' this GitHub repository. For any questions or suggestions, please feel free to open an issue or contact the repository maintainers directly.
 
-**Together, let's build a comprehensive resource that supports and enhances eco-acoustic research across Europe!**
+**Together, let's build a comprehensive resource that supports and enhances ecoacoustic research across Europe!**
