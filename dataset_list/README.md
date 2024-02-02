@@ -9,7 +9,7 @@ Please, contribute in priority to other existing repository efforts by checking 
  
 | Repository name | Data manager (mail) | Short description | Link |
 |-----------------|---------------------|-------------------|------|
-| WorldWide SoundScapes | Kevin Darras (kevin.darras@inrae.fr) | Meta-data repository for all IUCN core realms (terrestrial, marine, freshwater, subterranean) comprising 278 validated meta-datasets spanning 8739 sampling locations. | https://ecosound-web.de/ecosound_web/collection/index/106 |
+| WorldWide SoundScapes | Kevin FA Darras (kevin.darras@inrae.fr) | Meta-data repository for all IUCN core realms (terrestrial, marine, freshwater, subterranean) comprising 278 validated meta-datasets spanning 8739 sampling locations. | https://ecosound-web.de/ecosound_web/collection/index/106 |
 
 ## List of dataset
 
