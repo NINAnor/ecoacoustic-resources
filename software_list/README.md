@@ -2,7 +2,8 @@
 
 ## Overview
 
-A curated collection of software tools essential for eco-acoustic research. 
+A curated collection of software tools essential for ecoacoustic research. 
 
 ## List of software 
 
+coming soon...

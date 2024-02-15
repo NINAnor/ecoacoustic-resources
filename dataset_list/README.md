@@ -2,14 +2,14 @@
 
 ## Overview
 
-In this directory we provide an extensive compilation of eco-acoustic datasets available in Europe.
+In this directory we provide an extensive compilation of ecoacoustic datasets available in Europe.
 Please, contribute in priority to other existing repository efforts by checking their requirements and contacting the data managers.
 
 ## List of existing repositories
  
 | Repository name | Data manager (mail) | Short description | Link |
 |-----------------|---------------------|-------------------|------|
-| WorldWide SoundScape | Kevin Darras (kevin.darras@inrae.fr) | The WWSS project unites soundscape ecology across all realms of the globe (terrestrial, marine, freshwater, subterranean, as well as transitional realms) and comprises 247 collaborators who contribute 268 validated meta-datasets spanning 6765 sampling locations on the globe. | https://ecosound-web.de/ecosound_web/collection/index/106 |
+| WorldWide SoundScapes | Kevin FA Darras (kevin.darras@inrae.fr) | Meta-data repository for all IUCN core realms (terrestrial, marine, freshwater, subterranean) comprising 278 validated meta-datasets spanning 8739 sampling locations. | https://ecosound-web.de/ecosound_web/collection/index/106 |
 
 ## List of dataset
 
