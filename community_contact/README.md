@@ -8,6 +8,7 @@
 | [Julia Wiel](julia.wiel@nina.no) | Norwegian Institute for Nature Research | Analysis and collection of acoustic data |
 | [Carolyn Rosten](carolyn.rosten@nina.no) | Norwegian Institute for Nature Research | Collection of acoustic data |
 | [Kevin FA Darras](kevin.darras@inrae.fr) | INRAE | General ecoacoustics |
+| [Sandra Müller](sandra.mueller@biologie.uni-freiburg.de) (https://www.geobotanik.uni-freiburg.de/Team-Ordner/smueller) | University pof Freiburg | General ecoacoustics |
 
 ## List of ecoacoustic networks
 
